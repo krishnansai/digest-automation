@@ -1,0 +1,11 @@
+digests:
+  - GITHUB_TOKEN: '${GITHUB_TOKEN}'
+  - digest: lastweek.html
+    title: My projects last week
+    since: 1 week
+    items:
+      - https://github.com/
+      - https://github.com/
+
+
+
